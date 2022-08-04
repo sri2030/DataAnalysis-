@@ -1,5 +1,5 @@
 # DataAnalysis-
-# Author :srikanth
+Author :srikanth
 In this SQL Project for Data Analysis, I'll will efficiently leverage various analytical features and functions accessible through SQL in PostgreSQL
 
 # What is the Agenda of the project?

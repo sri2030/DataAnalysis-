@@ -18,7 +18,7 @@ SELECT
 	description
 	from film
 WHERE
-	description = '%drama%'
+	description like '%Drama%'
 order by 																					
         film;
 		
@@ -27,7 +27,7 @@ SELECT
   title
   from 
   film
-  where title length >20
+  where length(title)  =20
   order by
   film;
     -----Q:5) display movies by title length order----
